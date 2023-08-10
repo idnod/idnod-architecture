@@ -1,5 +1,5 @@
 site_name: Idnod Architecture
-site_url: https://idnod.github.io/architecture/
+site_url:  https://idnod.github.io/idnod-architecture/
 theme:
   name: material
   features:
@@ -55,4 +55,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/idnod_"  target="_blank" rel="noopener">idnod</a>
+  &copy; 2023 <a href="https://github.com/idnod"  target="_blank" rel="noopener">idnod</a>
